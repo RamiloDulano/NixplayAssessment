@@ -1,0 +1,8 @@
+{
+  "name": "kth-largest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/findKthLargest.test.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "lru-cache-expiration",
+  "version": "1.0.0",
+  "description": "LRU Cache with expiration (TTL) in Node.js",
+  "main": "src/LRUCache.js",
+  "scripts": {
+    "test": "node test/LRUCache.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
